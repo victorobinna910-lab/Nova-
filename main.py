@@ -1,4 +1,4 @@
-from brain import NovaBrain
+from nova.brain import NovaBrain
 
 
 def main():
